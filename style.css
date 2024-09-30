@@ -69,3 +69,8 @@ body{
 .Incorrect{
     background: #ff9393;
 }
+h5{
+    color: #ffffff;
+    text-align: center;
+    margin-top: 30px;
+}
